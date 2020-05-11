@@ -1,5 +1,6 @@
 {
     "name": "Chapter 5 IR Digital Dice",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
